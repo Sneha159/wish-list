@@ -1,7 +1,7 @@
 const addlistinput = document.getElementById('addlist');
 const addBtn = document.getElementById('addBtn');
 const wishlist = document.getElementById('wishlist');
-wishlist.setAttribute("style","color:white","font-style:bold");
+//wishlist.setAttribute("style","color:white","font-style:bold");
 
 function structure() {
 
